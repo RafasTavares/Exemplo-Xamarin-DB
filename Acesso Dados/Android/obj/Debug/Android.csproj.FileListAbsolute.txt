@@ -12,3 +12,17 @@ C:\Users\rtAndrade\Desktop\Acesso Dados\Android\obj\Debug\R.cs.flag
 C:\Users\rtAndrade\Desktop\Acesso Dados\Android\obj\Debug\uploadflags.txt
 C:\Users\rtAndrade\Desktop\Acesso Dados\Android\obj\Debug\res\layout\inicio.xml
 C:\Users\rtAndrade\Desktop\Acesso Dados\Android\obj\Debug\res\layout\edit.xml
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\Tasky.Android.dll
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\bin\Debug\Tasky.Android.dll
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\bin\Debug\Tasky.Android.pdb
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\bin\Debug\Tasky.Android.dll.mdb
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\bin\Debug\com.xamarin.samples.dataaccessadv.apk
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\bin\Debug\com.xamarin.samples.dataaccessadv-Signed.apk
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\Tasky.Android.pdb
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\android\bin\com.xamarin.samples.dataaccessadv.apk
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\res\layout\inicio.xml
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\res\layout\edit.xml
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\res\drawable\icon.png
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\res\values\strings.xml
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\R.cs.flag
+C:\Users\rtAndrade\Documents\GitHub\Exemplo-Xamarin-DB\Acesso Dados\Android\obj\Debug\uploadflags.txt

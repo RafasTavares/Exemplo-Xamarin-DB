@@ -5,7 +5,7 @@
     android:layout_height="fill_parent">
     <Button
         android:id="@+id/btnAddTask"
-        android:text="Add Stock"
+        android:text="Adicionar Pessoa"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
     <ListView

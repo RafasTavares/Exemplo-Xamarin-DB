@@ -12,7 +12,7 @@ public class Inicio
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"n_onResume:()V:GetOnResumeHandler\n" +
 			"";
-		mono.android.Runtime.register ("DataAccess.Inicio, Tasky.Android, Version=1.0.5309.28008, Culture=neutral, PublicKeyToken=null", Inicio.class, __md_methods);
+		mono.android.Runtime.register ("DataAccess.Inicio, Tasky.Android, Version=1.0.5309.28605, Culture=neutral, PublicKeyToken=null", Inicio.class, __md_methods);
 	}
 
 
@@ -20,7 +20,7 @@ public class Inicio
 	{
 		super ();
 		if (getClass () == Inicio.class)
-			mono.android.TypeManager.Activate ("DataAccess.Inicio, Tasky.Android, Version=1.0.5309.28008, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("DataAccess.Inicio, Tasky.Android, Version=1.0.5309.28605, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

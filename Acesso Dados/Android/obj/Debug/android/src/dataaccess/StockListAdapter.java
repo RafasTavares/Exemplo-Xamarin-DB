@@ -14,7 +14,7 @@ public class StockListAdapter
 			"n_getCount:()I:GetGetCountHandler\n" +
 			"n_getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:GetGetView_ILandroid_view_View_Landroid_view_ViewGroup_Handler\n" +
 			"";
-		mono.android.Runtime.register ("DataAccess.StockListAdapter, Tasky.Android, Version=1.0.5309.28008, Culture=neutral, PublicKeyToken=null", StockListAdapter.class, __md_methods);
+		mono.android.Runtime.register ("DataAccess.StockListAdapter, Tasky.Android, Version=1.0.5309.28605, Culture=neutral, PublicKeyToken=null", StockListAdapter.class, __md_methods);
 	}
 
 
@@ -22,7 +22,7 @@ public class StockListAdapter
 	{
 		super ();
 		if (getClass () == StockListAdapter.class)
-			mono.android.TypeManager.Activate ("DataAccess.StockListAdapter, Tasky.Android, Version=1.0.5309.28008, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("DataAccess.StockListAdapter, Tasky.Android, Version=1.0.5309.28605, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
